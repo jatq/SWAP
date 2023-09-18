@@ -1,0 +1,1 @@
+### The pytorch realization of the paper "SWAP: Seismic Wave Azimuth Predictor for Single-station Seismic Observations"

@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5502,
+    "jupyter.jupyterServerType": "local",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 60000
+}
